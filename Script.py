@@ -1,24 +1,24 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ 😍</b>"""
+Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I ᴄᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇꜱ, Jᴜꜱᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Aɴᴅ Mᴀᴋᴇ Mᴇ Aᴅᴍɪɴ...... Tʜᴇɴ Sᴇᴇ My Pᴏᴡᴇʀꜱ💥💥🔥</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/KOMBOTZZ'>『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝🇧🇷</a>
-✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
-✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
-✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
-✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://app.koyeb.com/'>Kᴏʏᴇʙ</a>
-✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.0.3 [ Sᴛᴀʙʟᴇ ]</b>"""
+    ABOUT_TXT = """<b>○ 𝗠𝘆 𝗡𝗮𝗺𝗲: {} 
+ ○ 𝗖𝗿𝗲𝗮𝘁𝗼𝗿   : <a href='tg://settings'>Tʜɪs ᴘᴇʀsᴏɴ</a> 
+ ○ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 : <a href='https://t.me/psycho_009'>Aᴋ Dᴇᴠᴇʟᴏᴩᴇʀ</a> 
+ ○ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲  : Pyᴛʜᴏɴ3 
+ ○ 𝗟𝗶𝗯𝗿𝗮𝗿𝘆   : Pyʀᴏɢʀᴀᴍ 
+ ○ 𝗦𝗲𝗿𝘃𝗲𝗿    : Hᴇʀᴏᴋᴜ 
+ ○ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲  : Mᴀɴɢᴏ ᴅʙ 
+ ○ 𝗨𝗽𝗱𝗮𝘁𝗲𝘀   : <a href='https://t.me/+2p4g9JuMTBY1N2M1'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
-- ⚠️ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ  ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ ⚠️.
-- ꜱᴜᴩᴩᴏʀᴛ⚡️ - <a href="https://t.me/KINGOFMOVIES003">ʜᴇʀᴇ</a>
-- ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴏᴜʀ ᴀʟʟ ᴄʜᴀɴɴᴇʟꜱ - @KOM_LINKS
+- ⚠️ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ ⚠️.
+- ꜱᴜᴩᴩᴏʀᴛ⚡️ - <a href="https://t.me/+2p4g9JuMTBY1N2M1">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/LUTTAPPIxTG">『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝🇧🇷</a></b>"""
+- <a href="https://t.me/psycho_009">Aᴋ Dᴇᴠᴇʟᴏᴩᴇʀ Tɢ</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -39,7 +39,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/KOMBOTZZ)</code>
+<code>[Button Text](buttonurl:https://t.me/MH_moviesgroup01)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -95,11 +95,15 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /delg - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀ sᴘᴇᴄɪғɪᴄ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ</code>
 • /request - <code>Tᴏ sᴇɴᴅ ᴀ ʀᴇᴏ̨ᴜᴇsᴛ ᴛᴏ ʙᴏᴛ ᴀᴅᴍɪɴs. Oɴʟʏ ᴡᴏʀᴋs ᴏɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ.</code>"""
 
-    STATUS_TXT = """<b>★ Tᴏᴛᴀʟ Fɪʟᴇs: <code>{}</code>
-★ Tᴏᴛᴀʟ Usᴇʀs: <code>{}</code>
-★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
-★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
-★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code></b>"""
+    STATUS_TXT = """<b>── • ❰ ♻️ Bot DB Status ♻️ ❱ • ──
+ 
+ 📂 Tᴏᴛᴀʟ Fɪʟᴇꜱ: <code>{}</code> 
+ 👤 Tᴏᴛᴀʟ Uꜱᴇʀꜱ: <code>{}</code> 
+ ♻️ Tᴏᴛᴀʟ Gʀᴏᴜᴩꜱ: <code>{}</code> 
+ 🗃️ Uꜱᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>  
+ 🆓 Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
+ 
+ ©Mᴀɪɴᴛᴀɪɴᴇᴅ ʙy: <a href=https://t.me/psycho_009>『ƬǤx』×‌× ᴅᴜᴅᴇ 𓄀℡ ️️</a></b>"""
 
     LOG_TEXT_G = """#New_Group
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
@@ -135,7 +139,7 @@ Nᴀᴍᴇ - {}"""
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)
 
-©ᴛꜱᴜɴᴀᴅᴇ</b>"""
+©ᴍʟᴢ ʙᴏᴛᴢ</b>"""
 
     I_CUD_NT = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
 ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ..."""
@@ -149,9 +153,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝🇧🇷
-• ᴜꜱᴇʀɴᴀᴍᴇ : @LUTTAPPIxTG 
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/LUTTAPPIxTG'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : 『ƬǤx』×‌× ᴅᴜᴅᴇ 𓄀℡
+• ᴜꜱᴇʀɴᴀᴍᴇ : @psycho_009
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/psycho_009'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -160,7 +164,7 @@ Nᴀᴍᴇ - {}"""
 
 ɪꜰ ʏᴏᴜ ᴅᴏ ɴᴏᴛ ꜱᴇᴇ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ ᴍᴏᴠɪᴇ / sᴇʀɪᴇs ꜰɪʟᴇ, ʟᴏᴏᴋ ᴀᴛ ᴛʜᴇ ɴᴇxᴛ ᴘᴀɢᴇ
 
-©ᴛꜱᴜɴᴀᴅᴇ"""
+©ᴍʟᴢ ʙᴏᴛᴢ"""
 
     MINFO = """
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
@@ -173,7 +177,7 @@ Nᴀᴍᴇ - {}"""
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)
 
-©ᴛꜱᴜɴᴀᴅᴇ"""
+©ᴍʟᴢ ʙᴏᴛᴢ"""
 
     SINFO = """
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
@@ -186,7 +190,7 @@ Nᴀᴍᴇ - {}"""
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)
 
-©ᴛꜱᴜɴᴀᴅᴇ"""
+©ᴍʟᴢ ʙᴏᴛᴢ"""
 
     NORSLTS = """
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
@@ -200,30 +204,22 @@ Nᴀᴍᴇ - {}"""
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
-<b>
-╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
-╰─────── • ◆ • ───────╯
-
-=========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @KOMOFFICIAL 
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @KOM_LINKS
+<b>=========== • ✠ • ===========
+▫️ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+2p4g9JuMTBY1N2M1>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a> 
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/MH_moviesgroup01>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
-<b>Query: {query}
-IMDb Data:
-
-🏷 Title: <a href={url}>{title}</a>
-🎭 Genres: {genres}
-📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a>/10 
-🍀Requested by🍀: {message.from_user.mention}
-𝘑𝘰𝘪𝘯 ★ 𝘚𝘩𝘢𝘳𝘦 ★ 𝘚𝘶𝘱𝘱𝘰𝘳𝘵
-♻️ᴊᴏɪɴ :-@KOMBOTZZ» 
-𝘑𝘰𝘪𝘯 ★ 𝘚𝘩𝘢𝘳𝘦 ★ 𝘚𝘶𝘱𝘱𝘰𝘳𝘵
-
-©ᴛꜱᴜɴᴀᴅᴇ </b>"""
+<b>⍞ 𝗧𝗶𝘁𝗹𝗲 : <a href={url}>{title}</a> 
+ 〄 𝗥𝗲𝗹𝗲𝗮𝘀𝗲𝗱 : {runtime} min | <a href={url}/releaseinfo>{year}</a> 
+ ⌗ 𝗚𝗲𝗻𝗿𝗲𝘀 : <i>{genres}</i> 
+ ★ 𝗥𝗮𝘁𝗶𝗻𝗴 : <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.) 
+ 〄𝗖𝗼𝘂𝗻𝘁𝗿𝗶𝗲𝘀 : <i>{countries}</i> 
+ ⌬ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 : <i>{languages}</i> 
+ ⎙ 𝗗𝗶𝗿𝗲𝗰𝘁𝗼𝗿 : <i>{director}</i>  
+ ⛤𝗪𝗿𝗶𝘁𝗲𝗿𝘀 : <i>{writer}</i> 
+ ★𝗨𝗽𝗹𝗼𝗮𝗱𝗲𝗱 𝗕𝘆 : <i>{message.chat.title}</i> </b>
+ ★𝗥𝗲𝗾𝘂𝗲𝘀𝘁𝗲𝗱 𝗕𝘆 : <i>{message.from_user.mention}</i></b>"""
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
     
